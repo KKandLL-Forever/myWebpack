@@ -1,0 +1,22 @@
+{
+  "name": "mywebpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wak",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/parser": "^7.18.9",
+    "@babel/traverse": "^7.18.9",
+    "babel-core": "^6.26.3"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.7.0"
+  }
+}
